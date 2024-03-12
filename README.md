@@ -4,7 +4,7 @@
 
 https://jessclark1234.github.io/static-portfolio/
 
-[!alt text](website-preview.png)
+[!Alt text](website-preview.png)
 
 The purpose of this application is to show my ability to understand CSS and HTML enough to create my own webpage that showcases my work. This application will serve as a beginner website that will display my work, creativity, and abilities to future employers who are looking to hire. The design phase helped me understand the basics around a good webpage, good developer habits, and how to best structure elements in a webpage. 
 
